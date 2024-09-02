@@ -1,1 +1,1 @@
-"# python_project_01" 
+Estudo de python através da criação de uma simples API.
