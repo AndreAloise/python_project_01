@@ -12,6 +12,3 @@ class Drink(MenuItem):
 		size = f'Size: {self._size}'
 		message = f'{i}. {name} | {price} | {size}'
 		return message
-
-	def apply_discount(self, discount_value):
-		self.price -= round(self.price * discount_value, 2)
