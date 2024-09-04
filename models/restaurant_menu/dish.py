@@ -12,3 +12,6 @@ class Dish(MenuItem):
 		description = f'Description: {self._description}'
 		message = f'{i}. {name} | {price} | {description}'
 		return message
+
+	def apply_discount(self, discount_value):
+		self.price -= round(self.price * discount_value, 2)

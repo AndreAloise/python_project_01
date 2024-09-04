@@ -9,3 +9,11 @@ class MenuItem(ABC):
 	@abstractmethod
 	def show_item(self, i):
 		pass
+
+	@abstractmethod
+	def apply_discount(self, discount_value):
+		"""
+			Apply discount to item's price\n
+			discount_value : float (Ex: 0.05)
+		"""
+		pass
