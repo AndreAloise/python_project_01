@@ -1,0 +1,6890 @@
+[
+	{
+		"company": "McDonald’s",
+		"item": "Hamburger",
+		"price": 32.42,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cheeseburger",
+		"price": 38.81,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Double Cheeseburger",
+		"price": 50.18,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McDouble",
+		"price": 55.73,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "McDonald’s",
+		"item": " Quarter Pounder® with Cheese",
+		"price": 57.48,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Double Quarter Pounder® with Cheese",
+		"price": 48.59,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big Mac®",
+		"price": 45.34,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big N’ Tasty®",
+		"price": 35.05,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big N’ Tasty® with Cheese",
+		"price": 56.26,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Bacon & Cheese",
+		"price": 44.32,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Deluxe",
+		"price": 50.18,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Mushroom & Swiss",
+		"price": 34.91,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Filet-O-Fish®",
+		"price": 47.46,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McChicken ®",
+		"price": 42.44,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McRib ®",
+		"price": 36.22,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Grilled Chicken Classic Sandwich",
+		"price": 55.95,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Crispy Chicken Classic Sandwich",
+		"price": 34.22,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Grilled Chicken Club Sandwich",
+		"price": 39.01,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Crispy Chicken Club Sandwich",
+		"price": 43.48,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Grilled Chicken Ranch BLT Sandwich",
+		"price": 30.25,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Crispy Chicken Ranch BLT Sandwich",
+		"price": 38.44,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Southern Style Crispy Chicken Sandwich",
+		"price": 35.01,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Ranch Snack Wrap® (Crispy)",
+		"price": 30.67,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Ranch Snack Wrap® (Grilled)",
+		"price": 48.33,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Honey Mustard Snack Wrap® (Crispy)",
+		"price": 56.33,
+		"description": "Incrivelmente saboroso e satisfatório."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Honey Mustard Snack Wrap® (Grilled)",
+		"price": 55.05,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chipotle BBQ Snack Wrap® (Crispy)",
+		"price": 30.08,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chipotle BBQ Snack Wrap® (Grilled)",
+		"price": 54.4,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Bacon & Cheese Snack Wrap",
+		"price": 35.34,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Chipotle BBQ Bacon",
+		"price": 50.45,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Chipotle BBQ Bacon Snack Wrap",
+		"price": 42.7,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Deluxe Snack Wrap",
+		"price": 49.04,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Angus Mushroom & Swiss Snack Wrap",
+		"price": 53.47,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mac Snack Wrap",
+		"price": 44.47,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Small French Fries",
+		"price": 58.5,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Medium French Fries",
+		"price": 40.29,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Large French Fries",
+		"price": 45.9,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Ketchup Packet",
+		"price": 47.02,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Salt Packet",
+		"price": 55.61,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chicken McNuggets® (4 piece)",
+		"price": 43.95,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chicken McNuggets® (6 piece)",
+		"price": 38.22,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chicken McNuggets® (10 piece)",
+		"price": 58.63,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Barbeque Sauce",
+		"price": 31.21,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Honey",
+		"price": 40.35,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Mustard Sauce",
+		"price": 54.49,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sweet ‘N Sour Sauce",
+		"price": 35.69,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chicken Selects® Premium Breast Strips (3 pc)",
+		"price": 33.69,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chicken Selects® Premium Breast Strips (5 pc)",
+		"price": 53.14,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Spicy Buffalo Sauce",
+		"price": 35.12,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Creamy Ranch Sauce",
+		"price": 40.21,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Tangy Honey Mustard Sauce",
+		"price": 39.03,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Southwestern Chipotle Barbeque Sauce",
+		"price": 41.95,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Southwest Salad with Grilled Chicken",
+		"price": 56.48,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Southwest Salad with Crispy Chicken",
+		"price": 51.78,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Southwest Salad (without chicken)",
+		"price": 38.57,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Bacon Ranch Salad with Grilled Chicken",
+		"price": 41.41,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Bacon Ranch Salad with Crispy Chicken",
+		"price": 59.86,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Bacon Ranch Salad (without chicken)",
+		"price": 49.86,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Caesar Salad with Grilled Chicken",
+		"price": 41.09,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Caesar Salad with Crispy Chicken",
+		"price": 54.21,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Premium Caesar Salad (without chicken)",
+		"price": 45.24,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Side Salad",
+		"price": 55.75,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Butter Garlic Croutons",
+		"price": 46.93,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Snack Size Fruit & Walnut Salad",
+		"price": 59.64,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Salad Dressings",
+		"price": 30.99,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Newman’s Own® Creamy Southwest Dressing",
+		"price": 33.12,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Newman’s Own® Creamy Caesar Dressing",
+		"price": 40.86,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Newman’s Own® Low Fat Balsamic Vinaigrette",
+		"price": 36.37,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Newman’s Own® Low Fat Family Recipe Italian Dressing",
+		"price": 56.2,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Newman’s Own® Ranch Dressing",
+		"price": 30.57,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Egg McMuffin®",
+		"price": 40.93,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage McMuffin®",
+		"price": 31.2,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage McMuffin® with Egg",
+		"price": 36.09,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "English Muffin",
+		"price": 39.79,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",
+		"price": 44.31,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",
+		"price": 55.88,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage Biscuit with Egg (Regular Size Biscuit)",
+		"price": 43.94,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage Biscuit with Egg (Large Size Biscuit)",
+		"price": 45.63,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage Biscuit (Regular Size Biscuit)",
+		"price": 34.89,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage Biscuit (Large Size Biscuit)",
+		"price": 32.29,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Southern Style Chicken Biscuit (Regular Size Biscuit)",
+		"price": 52.48,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Southern Style Chicken Biscuit (Large Size Biscuit)",
+		"price": 35.25,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Steak, Egg & Cheese Bagel",
+		"price": 30.77,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Bacon, Egg & Cheese McGriddles®",
+		"price": 49.43,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage, Egg & Cheese McGriddles®",
+		"price": 41.9,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage McGriddles®",
+		"price": 48.08,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big Breakfast® (Regular Size Biscuit)",
+		"price": 45.42,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big Breakfast® (Large Size Biscuit)",
+		"price": 47.83,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big Breakfast with Hotcakes (Regular Size Biscuit)",
+		"price": 48.75,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Big Breakfast with Hotcakes (Large Size Biscuit)",
+		"price": 48.98,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sausage Burrito",
+		"price": 33.8,
+		"description": "Uma bebida irresistível e refrescante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McSkillet™ Burrito with Sausage",
+		"price": 38.07,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hotcakes",
+		"price": 55.2,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hotcakes and Sausage",
+		"price": 37.69,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hotcake Syrup",
+		"price": 40.5,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Whipped Margarine (1 pat)",
+		"price": 34.94,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hash Brown",
+		"price": 35.97,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Grape Jam",
+		"price": 43.35,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Preserves",
+		"price": 42.21,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Bacon, Egg & Cheese Bagel",
+		"price": 48.74,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Fruit & Maple Oatmeal",
+		"price": 37.85,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Fruit & Maple Oatmeal without Brown Sugar",
+		"price": 48.17,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hamburger Happy Meal",
+		"price": 59.03,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "4 Piece Chicken McNuggets Happy Meal",
+		"price": 50.17,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "6 Piece Chicken McNuggets® Happy Meal",
+		"price": 57.05,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Fruit ‘n Yogurt Parfait (7 oz)",
+		"price": 51.63,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Low Fat Caramel Dip",
+		"price": 57.2,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Reduced Fat Ice Cream Cone",
+		"price": 57.9,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Kiddie Cone",
+		"price": 40.88,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Sundae",
+		"price": 48.68,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Caramel Sundae",
+		"price": 58.61,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Fudge Sundae",
+		"price": 39.56,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Peanuts (for Sundaes)",
+		"price": 36.5,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McFlurry® with M&M’S® Candies (12 fl oz cup)",
+		"price": 30.14,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McFlurry® with OREO® Cookies (12 fl oz cup)",
+		"price": 54.66,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Baked Hot Apple Pie",
+		"price": 31.24,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cinnamon Melts",
+		"price": 42.54,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "McDonaldland® Cookies",
+		"price": 31.22,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate Chip Cookie",
+		"price": 34.5,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Oatmeal Raisin Cookie",
+		"price": 59.51,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sugar Cookie",
+		"price": 55.25,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Apple Dippers with Low Fat Caramel Dip",
+		"price": 55.7,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate McCafé® Shake (12 fl oz cup)",
+		"price": 46.44,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate McCafé® Shake (16 fl oz cup)",
+		"price": 54.04,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate McCafé® Shake (22 fl oz cup)",
+		"price": 58.07,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate Triple Thick® Shake (12 fl oz cup)",
+		"price": 32.35,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate Triple Thick® Shake (16 fl oz cup)",
+		"price": 32.38,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate Triple Thick® Shake (21 fl oz cup)",
+		"price": 43.69,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Chocolate Triple Thick® Shake (32 fl oz cup)",
+		"price": 55.99,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Snack Size McFlurry® with M&M’S® Candies",
+		"price": 56.9,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Snack Size McFlurry® with OREO® Cookies",
+		"price": 34.09,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry McCafé® Shake (12 fl oz cup)",
+		"price": 53.76,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry McCafé® Shake (16 fl oz cup)",
+		"price": 47.24,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry McCafé® Shake (22 fl oz cup)",
+		"price": 38.54,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Triple Thick® Shake (12 fl oz cup)",
+		"price": 49.13,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Triple Thick® Shake (16 fl oz cup)",
+		"price": 41.04,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Triple Thick® Shake (21 fl oz cup)",
+		"price": 45,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Triple Thick® Shake (32 fl oz cup)",
+		"price": 35.85,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla McCafé® Shake (12 fl oz cup)",
+		"price": 49.12,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla McCafé® Shake (16 fl oz cup)",
+		"price": 38.8,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla McCafé® Shake (22 fl oz cup)",
+		"price": 37.09,
+		"description": "Uma escolha saudável e deliciosa."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Triple Thick Shake® (32 fl oz cup)",
+		"price": 58.62,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Triple Thick® Shake (12 fl oz cup)",
+		"price": 47.3,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Triple Thick® Shake (16 fl oz cup)",
+		"price": 45.31,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Triple Thick® Shake (21 fl oz cup)",
+		"price": 53.04,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "1% Low Fat Milk Jug",
+		"price": 54.66,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "1% Low Fat Chocolate Milk Jug",
+		"price": 49.74,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Minute Maid® 100% Apple Juice Box",
+		"price": 47.74,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Dasani® Water",
+		"price": 43.05,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Minute Maid® Orange Juice (Small)",
+		"price": 40.6,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Minute Maid® Orange Juice (Medium)",
+		"price": 31.2,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Minute Maid® Orange Juice (Large)",
+		"price": 47.3,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coca-Cola® Classic (Child)",
+		"price": 32.12,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coca-Cola® Classic (Small)",
+		"price": 47.68,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coca-Cola® Classic (Medium)",
+		"price": 56.6,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coca-Cola® Classic (Large)",
+		"price": 49.53,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Diet Coke® (Child)",
+		"price": 42.76,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Diet Coke® (Small)",
+		"price": 38.83,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Diet Coke® (Medium)",
+		"price": 52.85,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Diet Coke® (Large)",
+		"price": 35.59,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sprite® (Child)",
+		"price": 59.38,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sprite® (Small)",
+		"price": 47.29,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sprite® (Medium)",
+		"price": 52.31,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sprite® (Large)",
+		"price": 34.05,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hi-C® Orange Lavaburst (Child)",
+		"price": 55.6,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hi-C® Orange Lavaburst (Small)",
+		"price": 57.45,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hi-C® Orange Lavaburst (Medium)",
+		"price": 57.23,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hi-C® Orange Lavaburst (Large)",
+		"price": 35.26,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "POWERade® Mountain Blast (Child)",
+		"price": 47.53,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "POWERade® Mountain Blast (Small)",
+		"price": 45.83,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "POWERade® Mountain Blast (Medium)",
+		"price": 46.56,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "POWERade® Mountain Blast (Large)",
+		"price": 44.78,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Tea (Child)",
+		"price": 30.22,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Tea (Small)",
+		"price": 56.25,
+		"description": "Deliciosos molhos para realçar seu prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Tea (Medium)",
+		"price": 30.62,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Tea (Large)",
+		"price": 51.06,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coffee (Small)",
+		"price": 50.86,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coffee (Large)",
+		"price": 51.66,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Coffee Cream",
+		"price": 39.25,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sugar Packet",
+		"price": 42.61,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "EQUAL® 0\nCalorie Sweetener",
+		"price": 55.77,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "SPLENDA® No\nCalorie Sweetener",
+		"price": 39.37,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Caramel (Small)",
+		"price": 54.69,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Caramel (Medium)",
+		"price": 49.06,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Caramel (Large)",
+		"price": 37.17,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Hazelnut (Small)",
+		"price": 54,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Hazelnut (Medium)",
+		"price": 59.87,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Hazelnut (Large)",
+		"price": 50.21,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Regular (Small)",
+		"price": 43.23,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Regular (Medium)",
+		"price": 48.91,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Regular (Large)",
+		"price": 52.18,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Vanilla (Small)",
+		"price": 59.08,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Vanilla (Medium)",
+		"price": 51.26,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee– Vanilla (Large)",
+		"price": 44.27,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee with Sugar Free Vanilla Syrup (Small)",
+		"price": 31.99,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee with Sugar Free Vanilla Syrup (Medium)",
+		"price": 46.17,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Coffee with Sugar Free Vanilla Syrup (Large)",
+		"price": 59.06,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sweet Tea (Child)",
+		"price": 33.61,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sweet Tea (Large)",
+		"price": 38.48,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sweet Tea (Medium)",
+		"price": 39.57,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Sweet Tea (Small)",
+		"price": 31.11,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino (Small)",
+		"price": 42.91,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino (Medium)",
+		"price": 53.23,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino (Large)",
+		"price": 49.1,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte (Small)",
+		"price": 45.4,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte (Medium)",
+		"price": 39.2,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte (Large)",
+		"price": 42.61,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Cappuccino (Small)",
+		"price": 55.68,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Cappuccino (Medium)",
+		"price": 44.74,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Cappuccino (Large)",
+		"price": 52.21,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Latte (Small)",
+		"price": 34.97,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Latte (Medium)",
+		"price": 37.55,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Latte (Large)",
+		"price": 45.97,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Cappuccino (Small)",
+		"price": 42.89,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Cappuccino (Medium)",
+		"price": 54.83,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Cappuccino (Large)",
+		"price": 56.28,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Latte (Small)",
+		"price": 39.33,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Latte (Medium)",
+		"price": 54.13,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Hazelnut Latte (Large)",
+		"price": 46.37,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Cappuccino (Small)",
+		"price": 47.28,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Cappuccino (Medium)",
+		"price": 52.55,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Cappuccino (Large)",
+		"price": 35.74,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Latte (Small)",
+		"price": 40.86,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Latte (Medium)",
+		"price": 53.55,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Vanilla Latte (Large)",
+		"price": 58.35,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small)",
+		"price": 42.38,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+		"price": 47.98,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large)",
+		"price": 30.09,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+		"price": 47.3,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+		"price": 48.33,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+		"price": 57.63,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha with Nonfat Milk (Small)",
+		"price": 54.67,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha with Nonfat Milk (Medium)",
+		"price": 56.72,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha with Nonfat Milk (Large)",
+		"price": 56.05,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate with Nonfat Milk (Small)",
+		"price": 48.52,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate with Nonfat Milk (Medium)",
+		"price": 56.76,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate with Nonfat Milk (Large)",
+		"price": 42.93,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte (Small)",
+		"price": 33.66,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte (Medium)",
+		"price": 35.99,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte (Large)",
+		"price": 51.49,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Latte (Small)",
+		"price": 47.04,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Latte (Medium)",
+		"price": 34.25,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Latte (Large)",
+		"price": 56.52,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Hazelnut Latte (Small)",
+		"price": 40.85,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Hazelnut Latte (Medium)",
+		"price": 43.39,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Hazelnut Latte (Large)",
+		"price": 41.73,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Vanilla Latte (Small)",
+		"price": 42.04,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Vanilla Latte (Medium)",
+		"price": 58.91,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Vanilla Latte (Large)",
+		"price": 52.66,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+		"price": 58.96,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+		"price": 32.58,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+		"price": 37.82,
+		"description": "A combinação perfeita de doçura e frutas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Mocha with Nonfat Milk (Medium)",
+		"price": 47.43,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Mocha (Large)",
+		"price": 37.34,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Mocha (Medium)",
+		"price": 34,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Nonfat Caramel Mocha (Small)",
+		"price": 54.77,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Mocha (Large)",
+		"price": 35.23,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Mocha (Medium)",
+		"price": 40.35,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Nonfat Caramel Mocha (Small)",
+		"price": 37.55,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino (Small)",
+		"price": 48.72,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino (Medium)",
+		"price": 48.59,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino (Large)",
+		"price": 33.93,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte (Small) ",
+		"price": 32.26,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte (Medium)",
+		"price": 50.03,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte (Large)",
+		"price": 56.25,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Cappuccino (Small)",
+		"price": 34.75,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Cappuccino (Medium)",
+		"price": 37.94,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Cappuccino (Large)",
+		"price": 44.85,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Latte (Small)",
+		"price": 32.54,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Latte (Medium)",
+		"price": 58.91,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Latte (Large)",
+		"price": 44.05,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Cappuccino (Small)",
+		"price": 58.77,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Cappuccino (Medium)",
+		"price": 41.18,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Cappuccino (Large)",
+		"price": 53.36,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Latte (Small)",
+		"price": 42.04,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Latte (Medium)",
+		"price": 54.16,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hazelnut Latte (Large)",
+		"price": 31.39,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Cappuccino (Small)",
+		"price": 58.36,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Cappuccino (Medium)",
+		"price": 39.25,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Cappuccino (Large)",
+		"price": 41.38,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Latte (Small)",
+		"price": 50.65,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Latte (Medium)",
+		"price": 34.42,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Vanilla Latte (Large)",
+		"price": 32.36,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino with Sugar Free Vanilla Syrup (Small)",
+		"price": 44.28,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+		"price": 32.78,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Cappuccino with Sugar Free Vanilla Syrup (Large)",
+		"price": 58.81,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte with Sugar Free Vanilla Syrup (Small)",
+		"price": 37.33,
+		"description": "Incrivelmente saboroso e satisfatório."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte with Sugar Free Vanilla Syrup (Medium)",
+		"price": 56.32,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Latte with Sugar Free Vanilla Syrup (Large)",
+		"price": 33.46,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha (Small)",
+		"price": 57.28,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha (Medium)",
+		"price": 32.65,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Mocha (Large)",
+		"price": 59.06,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate (Small)",
+		"price": 59.49,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate (Medium)",
+		"price": 33.98,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Hot Chocolate (Large)",
+		"price": 32.54,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte (Small)",
+		"price": 48.64,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte (Medium)",
+		"price": 31.54,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte (Large)",
+		"price": 55.54,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Latte (Small)",
+		"price": 34.57,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Latte (Medium)",
+		"price": 52.96,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Latte (Large)",
+		"price": 57.35,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Hazelnut Latte (Small)",
+		"price": 52.4,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Hazelnut Latte (Medium)",
+		"price": 56.17,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Hazelnut Latte (Large)",
+		"price": 40.87,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Vanilla Latte (Small)",
+		"price": 57.96,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Vanilla Latte (Medium)",
+		"price": 30.13,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Vanilla Latte (Large)",
+		"price": 36.63,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte with Sugar Free Vanilla Syrup (Small)",
+		"price": 56.76,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte with Sugar Free Vanilla Syrup (Medium)",
+		"price": 34.67,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Latte with Sugar Free Vanilla Syrup (Large)",
+		"price": 59.1,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Mocha (Medium)",
+		"price": 48.04,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Mocha (Large)",
+		"price": 52.43,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Mocha (Medium)",
+		"price": 58.04,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Caramel Mocha (Small)",
+		"price": 51.28,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Mocha (Large)",
+		"price": 46.29,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Mocha (Medium)",
+		"price": 41.26,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Iced Caramel Mocha (Small)",
+		"price": 37.5,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Caramel (Small)",
+		"price": 59.5,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Caramel (Medium)",
+		"price": 51.32,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Caramel (Large)",
+		"price": 46.29,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Mocha (Small)",
+		"price": 57.95,
+		"description": "Deliciosos molhos para realçar seu prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Mocha (Medium)",
+		"price": 51.08,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Frappe Mocha (Large)",
+		"price": 49.15,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Banana Smoothie (Large)",
+		"price": 47.23,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Banana Smoothie (Medium)",
+		"price": 39.63,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Strawberry Banana Smoothie (Small)",
+		"price": 39.79,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Wild Berry Smoothie (Large)",
+		"price": 37.47,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Wild Berry Smoothie (Medium)",
+		"price": 48.45,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "McDonald’s",
+		"item": "Wild Berry Smoothie (Small)",
+		"price": 46.83,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Whopper® Sandwich",
+		"price": 46.35,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "Whopper® Sandwich with Cheese",
+		"price": 37.47,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon & Cheese Whopper® Sandwich",
+		"price": 49.44,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Whopper® Sandwich",
+		"price": 57.83,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Whopper® Sandwich with Cheese",
+		"price": 37.02,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Burger King",
+		"item": "Triple Whopper® Sandwich",
+		"price": 55.49,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Triple Whopper® Sandwich with Cheese",
+		"price": 49.59,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Whopper JR.® Sandwich",
+		"price": 38.31,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon King Sandwich",
+		"price": 54.55,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Cheddar Bacon King Sandwich",
+		"price": 38.25,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Burger King",
+		"item": "Single Quarter Pound King Sandwich",
+		"price": 45.5,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Quarter Pound King Sandwich",
+		"price": 49.21,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Single Stacker King",
+		"price": 33.35,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Stacker King",
+		"price": 40.17,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "IMPOSSIBLE Whopper® Sandwich",
+		"price": 33.04,
+		"description": "Incrivelmente saboroso e satisfatório."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hamburger",
+		"price": 43.63,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "Cheeseburger",
+		"price": 51.52,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Hamburger",
+		"price": 37.16,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double Cheeseburger",
+		"price": 39.28,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Extra Long Cheeseburger",
+		"price": 50.74,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon Cheeseburger",
+		"price": 30.69,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon Double Cheeseburger",
+		"price": 57.89,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Crispy Chicken Sandwich",
+		"price": 50.48,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Crispy Chicken Sandwich",
+		"price": 47,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Original Chicken Sandwich",
+		"price": 34.25,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon & Cheese Crispy Chicken Sandwich",
+		"price": 43.17,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "BBQ Bacon Crispy Chicken Sandwich",
+		"price": 38.84,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Crispy Chicken Jr.",
+		"price": 58.88,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Crispy Chicken Jr.",
+		"price": 39.05,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 4pc",
+		"price": 50.5,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 6pc",
+		"price": 31.34,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 10pc",
+		"price": 49.86,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 20pc",
+		"price": 59.01,
+		"description": "Sabor autêntico que aquece o coração."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Chicken Nuggets- 4pc",
+		"price": 32.9,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Chicken Nuggets- 6pc",
+		"price": 57.68,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Chicken Nuggets- 10 pc",
+		"price": 52.95,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Spicy Chicken Nuggets- 20 pc",
+		"price": 41.89,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Fries – 9 pc.",
+		"price": 50.41,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Crispy Taco",
+		"price": 35.97,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "BIG FISH Sandwich",
+		"price": 30.88,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Burger King",
+		"item": "Garden Chicken Salad with Crispy Chicken – no dressing",
+		"price": 53.55,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Burger King",
+		"item": "Club Salad with Crispy Chicken – no dressing",
+		"price": 46,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Garden Side Salad – w/o dressing",
+		"price": 48.29,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ken’s Ranch Dressing",
+		"price": 57.99,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ken’s Golden Italian Dressing",
+		"price": 58.55,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ken’s Lite Honey Balsamic Vinaigrette",
+		"price": 32.54,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "Buttery Garlic Croutons- Packet",
+		"price": 57.36,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Onion Rings – value",
+		"price": 50.53,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Burger King",
+		"item": "Onion Rings – small",
+		"price": 38.71,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Onion Rings – medium",
+		"price": 47.99,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Onion Rings – large",
+		"price": 39.69,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Fries – value (unsalted)",
+		"price": 32.81,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Fries – small",
+		"price": 42.89,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Fries – medium",
+		"price": 33.67,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Fries – large",
+		"price": 43.19,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Kids Oatmeal",
+		"price": 55.37,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 4pc",
+		"price": 44.23,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chicken Nuggets- 6pc",
+		"price": 56.43,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hamburger",
+		"price": 48,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Cheeseburger",
+		"price": 38.26,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Mott’s® Natural Applesauce",
+		"price": 51.81,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Fat FREE Milk (8 fl oz)",
+		"price": 32.39,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "1% Low Fat Chocolate Milk (8 fl oz)",
+		"price": 47.15,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Capri Sun® 100% Apple Juice (6 fl oz)",
+		"price": 56.52,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "PB&J Jamwich",
+		"price": 45.81,
+		"description": "Incrivelmente saboroso e satisfatório."
+	},
+	{
+		"company": "Burger King",
+		"item": "Soft Serve Cone",
+		"price": 56.93,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Burger King",
+		"item": "Dutch Apple Pie",
+		"price": 31.48,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "HERSHEY®’S Sundae Pie",
+		"price": 56.11,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Pie made with TWIX®",
+		"price": 45.18,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "OREO® Cookie Cheesecake",
+		"price": 37.97,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "Soft Serve Cone",
+		"price": 41.08,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Soft Serve Cup",
+		"price": 37.78,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "HERSHEY®’s Chocolate Sundae",
+		"price": 36.83,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Caramel Sundae",
+		"price": 51.66,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chocolate Chip Cookies (each)",
+		"price": 59.55,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Burger King",
+		"item": "CROISSAN’WICH® Egg & Cheese",
+		"price": 44.14,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "CROISSAN’WICH® Sausage, Egg & Cheese",
+		"price": 46.6,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "CROISSAN’WICH® Ham, Egg & Cheese",
+		"price": 39.18,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "CROISSAN’WICH® Bacon, Egg & Cheese",
+		"price": 43.55,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Burger King",
+		"item": "Fully Loaded CROISSAN’WICH®",
+		"price": 45.53,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double CROISSAN’WICH® with Sausage & Bacon",
+		"price": 50.77,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double CROISSAN’WICH® with Sausage",
+		"price": 35.87,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Double CROISSAN’WICH® with Ham & Sausage",
+		"price": 39.77,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Fully Loaded Biscuit",
+		"price": 36.94,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ham, Egg, & Cheese Biscuit",
+		"price": 45,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "Sausage, Egg, & Cheese Biscuit",
+		"price": 52.2,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Bacon, Egg & Cheese Biscuit",
+		"price": 55.24,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Sausage Biscuit",
+		"price": 55.52,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Breakfast Burrito Jr.",
+		"price": 50.7,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "EGG-NORMOUS BURRITOΡ",
+		"price": 55.06,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK™ Ultimate Breakfast Platter",
+		"price": 45.25,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Burger King",
+		"item": "NY Ultimate Platter (Regional menu item)",
+		"price": 42.64,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "Pancake and Sausage platter",
+		"price": 40.68,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hash Browns – small",
+		"price": 56.6,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hash Browns – medium",
+		"price": 59.3,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hash Browns – large",
+		"price": 37.66,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Toast Sticks (3 piece)",
+		"price": 37.09,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Burger King",
+		"item": "French Toast Sticks (5 piece)",
+		"price": 41.65,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "American Cheese (slice)",
+		"price": 47.06,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ketchup (Packet)",
+		"price": 44.96,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Mayonnaise (Packet)",
+		"price": 59.52,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Strawberry or Grape Jam (packet)",
+		"price": 48.87,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Breakfast Syrup (1 oz)",
+		"price": 47.62,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "Barbecue Dipping Sauce (1 oz)",
+		"price": 58.11,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Burger King",
+		"item": "Ranch Dipping Sauce (1 oz)",
+		"price": 33.71,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "Buffalo Dipping Sauce (1 oz)",
+		"price": 49,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "Zesty Onion Ring Dipping Sauce (1 oz)",
+		"price": 30.3,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Honey Mustard Dipping Sauce (1oz)",
+		"price": 48.25,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Fat FREE Milk (8 fl oz)",
+		"price": 40.43,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Burger King",
+		"item": "1% Low Fat Chocolate Milk (8 fl oz)",
+		"price": 37.44,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "Burger King",
+		"item": "Smoothie: Strawberry Banana 16 fl oz",
+		"price": 53,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "Oreo® Shake",
+		"price": 54.79,
+		"description": "Sabor autêntico que aquece o coração."
+	},
+	{
+		"company": "Burger King",
+		"item": "Chocolate Oreo® Shake",
+		"price": 42.83,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Burger King",
+		"item": "Vanilla Milk Shake",
+		"price": 55.69,
+		"description": "Uma bebida irresistível e refrescante."
+	},
+	{
+		"company": "Burger King",
+		"item": "HERSHEY®’S Chocolate Milk Shake",
+		"price": 56.01,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "Strawberry Milk Shake",
+		"price": 31.42,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Burger King",
+		"item": "Coca Cola classic®‡",
+		"price": 52.19,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 31.58,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 56.38,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 47.65,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 49.65,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "Burger King",
+		"item": "Diet Coke®‡",
+		"price": 42.13,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 33.23,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 59.23,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 43.42,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 40.93,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "Sprite®‡",
+		"price": 41.49,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 51.81,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 40.71,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 46.95,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 37.81,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Burger King",
+		"item": "Dr. Pepper®‡",
+		"price": 31.69,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 39.77,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 55.16,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 30.33,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 57.03,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Barq’s® Root Beer‡",
+		"price": 57.74,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 31.19,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 42.04,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 47.81,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 32.04,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Burger King",
+		"item": "Cherry Coke®‡",
+		"price": 33.16,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 42.93,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 46.65,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 59.34,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 32.42,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "Fanta® Orange‡",
+		"price": 49.86,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 45.21,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 39.36,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 38.91,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 39.29,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Hi-C® Fruit Punch‡",
+		"price": 57.01,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 31.16,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 57.91,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 40.44,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 32.69,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Burger King",
+		"item": "MINUTE MAID® Light Lemonade",
+		"price": 49.1,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Burger King",
+		"item": "16 fl oz",
+		"price": 35.63,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 54.52,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 41.69,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "Burger King",
+		"item": "38 fl oz",
+		"price": 32.38,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "Sweet Tea",
+		"price": 55.51,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 41.49,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 31.5,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "40 fl oz",
+		"price": 47.46,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Burger King",
+		"item": "Unsweetened Tea",
+		"price": 49.42,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "20 fl oz",
+		"price": 56.6,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Burger King",
+		"item": "29 fl oz",
+		"price": 37.24,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "40 fl oz",
+		"price": 44.78,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Burger King",
+		"item": "Capri Sun® 100% Apple Juice",
+		"price": 58.63,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Burger King",
+		"item": "Minute Maid® Orange Juice",
+		"price": 35.59,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Burger King",
+		"item": "Frozen Coke® – 16 oz",
+		"price": 48.52,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Coffee- 12 fl oz",
+		"price": 32.75,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Coffee- 16 fl oz",
+		"price": 33.79,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Coffee- 20 fl oz",
+		"price": 42.31,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Decaf Coffee- 12 fl oz",
+		"price": 53.96,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Decaf Coffee- 16 fl oz",
+		"price": 47.84,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Decaf Coffee- 20 fl oz",
+		"price": 46.85,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Vanilla Coffee- 12 fl oz",
+		"price": 45.69,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Vanilla Coffee- 16 fl oz",
+		"price": 50.94,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Vanilla Coffee- 20 fl oz",
+		"price": 48.49,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Mocha Coffee- 12 fl oz",
+		"price": 30.2,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Mocha Coffee- 16 fl oz",
+		"price": 56.57,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Iced Mocha Coffee- 20 fl oz",
+		"price": 42.93,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Mocha Frappe- 12 fl oz",
+		"price": 32.66,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Mocha Frappe- 16 fl oz",
+		"price": 31.28,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Mocha Frappe- 20 fl oz",
+		"price": 48.98,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Caramel Frappe- 12 fl oz",
+		"price": 42.77,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Caramel Frappe- 16 fl oz",
+		"price": 56.22,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Burger King",
+		"item": "BK® Café Caramel Frappe- 20 fl oz",
+		"price": 36.23,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Baconator",
+		"price": 39.85,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dave’s Double",
+		"price": 52.43,
+		"description": "A combinação perfeita de doçura e frutas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dave’s Single",
+		"price": 47.66,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dave’s Triple",
+		"price": 40.81,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Double Stack",
+		"price": 55.03,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Jr. Bacon Cheeseburger",
+		"price": 44.78,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Jr. Cheeseburger",
+		"price": 55.18,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Jr. Cheeseburger Deluxe",
+		"price": 38.85,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Son of Baconator",
+		"price": 55.03,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "3 Piece Chicken Tenders",
+		"price": 32.92,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "4 Piece Chicken Nuggets",
+		"price": 37.46,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "4 Piece Chicken Tenders",
+		"price": 42.83,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "6 Picece Chicken Nuggets",
+		"price": 50.02,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "6 Piece Chicken Tenders",
+		"price": 32.86,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "10 Piece Chicken Nuggets",
+		"price": 53.35,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Crispy Chicken BLT",
+		"price": 51.8,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Crispy Chicken Sandwich",
+		"price": 32.95,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Grilled Asiago Ranch Club",
+		"price": 52.21,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Grilled Chicken Sandwich",
+		"price": 38.63,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Grilled Chicken Wrap",
+		"price": 59.09,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Homestyle Asiago Ranch Chicken Club",
+		"price": 45.49,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Homestyle Chicken Sandwich",
+		"price": 36.01,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "S’Awesome Sauce",
+		"price": 31.84,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Spicy Asiago Ranch Club",
+		"price": 42.92,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Spicy Chicken Sandwich",
+		"price": 50.14,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Spicy Chicken Wrap",
+		"price": 57.43,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Pecan Chicken Salad, Full Size",
+		"price": 56.34,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Pecan Chicken Salad, Half Size",
+		"price": 39.87,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Berry Burst Chicken Salad, Full Size",
+		"price": 47.1,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Berry Burst Chicken Salad, Half Size",
+		"price": 39.97,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Caesar Side Salad",
+		"price": 50.37,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Garden Side Salad",
+		"price": 37.3,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Southwest Avocado Chicken Salad, Full Size",
+		"price": 44.41,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Southwest Avocado Chicken Salad, Half Size",
+		"price": 51.76,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Spicy Caesar Chicken Salad, Full Size",
+		"price": 34.8,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Spicy Caesar Chicken Salad, Half Size",
+		"price": 58.59,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Taco Salad, Full Size",
+		"price": 48.91,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Taco Salad, Half Size",
+		"price": 47.79,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Bites",
+		"price": 56.11,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Baconator Fries",
+		"price": 54.09,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Bacon Cheese Baked Potato",
+		"price": 44.91,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Cheese Baked Potato",
+		"price": 37.98,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Chili & Cheese Baked Potato",
+		"price": 35.26,
+		"description": "Uma bebida irresistível e refrescante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Chili, Large",
+		"price": 52.14,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Chili, Small",
+		"price": 44.13,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Chili Cheese Fries",
+		"price": 39.62,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Natural-Cut Fries, Junior",
+		"price": 55.94,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Natural-Cut Fries, Large",
+		"price": 55.01,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Natural-Cut Fries, Medium",
+		"price": 30.56,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Natural-Cut Fries, Small",
+		"price": 40.93,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Plain Baked Potato",
+		"price": 36.64,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sour Cream and Chive Baked Potato",
+		"price": 57.8,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Summer Berry Burst Fruit Cup",
+		"price": 39.5,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "1% Chocolate Milk",
+		"price": 36.68,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "1% White Milk",
+		"price": 31.57,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "All-Natural Lemonade, Large",
+		"price": 31.39,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "All-Natural Lemonade, Medium",
+		"price": 43.4,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "All-Natural Lemonade, Small",
+		"price": 35.52,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Kiwi Fruit Tea, Large",
+		"price": 38.29,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Kiwi Fruit Tea, Medium",
+		"price": 52.91,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Apple Kiwi Fruit Tea, Small",
+		"price": 46.17,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Barq’s Root Beer, Large",
+		"price": 53.97,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Barq’s Root Beer, Medium",
+		"price": 58,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Barq’s Root Beer, Small",
+		"price": 36.28,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Brewed Unsweetened Iced Tea, Large",
+		"price": 38.39,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Brewed Unsweetened Iced Tea, Medium",
+		"price": 47.89,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Brewed Unsweetened Iced Tea, Small",
+		"price": 57.58,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Caramel Iced Coffee, Medium",
+		"price": 57.89,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Caramel Iced Coffee, Small",
+		"price": 34.86,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola, Large",
+		"price": 51.34,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola, Medium",
+		"price": 57.42,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola, Small",
+		"price": 31.51,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola Zero Sugar, Large",
+		"price": 48.26,
+		"description": "A combinação perfeita de doçura e frutas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola Zero Sugar, Medium",
+		"price": 54.96,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Coca-Cola Zero Sugar, Small",
+		"price": 34.85,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Diet Coke, Large",
+		"price": 35.31,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Diet Coke, Medium",
+		"price": 57.75,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Diet Coke, Small",
+		"price": 49.17,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dr Pepper, Large",
+		"price": 41.64,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dr Pepper, Medium",
+		"price": 56.88,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Dr Pepper, Small",
+		"price": 47.1,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Fanta Orange, Large",
+		"price": 43.82,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Fanta Orange, Medium",
+		"price": 47.41,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Fanta Orange, Small",
+		"price": 36.86,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Hi-C Flashin’ Fruit Punch, Large",
+		"price": 42.86,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Hi-C Flashin’ Fruit Punch, Medium",
+		"price": 41.32,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Hi-C Flashin’ Fruit Punch, Small",
+		"price": 34.22,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Honest Tropical Green Tea, Large",
+		"price": 54.22,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Honest Tropical Green Tea, Medium",
+		"price": 56.44,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Honest Tropical Green Tea, Small",
+		"price": 43.94,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Hot Tea",
+		"price": 39.79,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Limeade, Large",
+		"price": 57.16,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Limeade, Medium",
+		"price": 39.03,
+		"description": "Deliciosos molhos para realçar seu prato."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Limeade, Small",
+		"price": 48.46,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Minute Maid Light Lemonade, Large",
+		"price": 44.21,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Minute Maid Light Lemonade, Medium",
+		"price": 58.91,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Minute Maid Light Lemonade, Small",
+		"price": 58.58,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Mocha Iced Coffee, Medium",
+		"price": 48.23,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Mocha Iced Coffee, Small",
+		"price": 49.46,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Pear Berry Fruit Tea, Large",
+		"price": 57.15,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Pear Berry Fruit Tea, Medium",
+		"price": 56.49,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Pear Berry Fruit Tea, Small",
+		"price": 49.78,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Skinny Vanilla Iced Coffee, Medium",
+		"price": 47.22,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Skinny Vanilla Iced Coffee, Small",
+		"price": 46.72,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Small Sprite, Small",
+		"price": 53.89,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sprite, Large",
+		"price": 52.48,
+		"description": "Para os apaixonados por café e lattes."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sprite, Medium",
+		"price": 44.52,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Lemonade, Large",
+		"price": 30.15,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Lemonade, Medium",
+		"price": 35.08,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Lemonade, Small",
+		"price": 45.96,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Sweet Tea, Large",
+		"price": 36.07,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Sweet Tea, Medium",
+		"price": 35.48,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Sweet Tea, Small",
+		"price": 36.95,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Tea, Large",
+		"price": 30.79,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Tea, Medium",
+		"price": 59.25,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Strawberry Tea, Small",
+		"price": 49.72,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sweetened Iced Tea, Large",
+		"price": 38.01,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sweetened Iced Tea, Medium",
+		"price": 31.41,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sweetened Iced Tea, Small",
+		"price": 39.55,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Iced Coffee, Medium",
+		"price": 36.07,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Iced Coffee, Small",
+		"price": 32.23,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Classic Chocolate Frosty, Junior",
+		"price": 57.22,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Classic Chocolate Frosty, Large",
+		"price": 53.09,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Classic Chocolate Frosty, Medium",
+		"price": 44.82,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Classic Chocolate Frosty, Small",
+		"price": 50.41,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Frosty, Junior",
+		"price": 57.29,
+		"description": "Deliciosos molhos para realçar seu prato."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Frosty, Large",
+		"price": 36.5,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Frosty, Medium",
+		"price": 38.52,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Vanilla Frosty, Small",
+		"price": 47.72,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Chocolate Chunk Cookie",
+		"price": 37.33,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Double Chocolate Chunk Cookie",
+		"price": 43.02,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sugar Cookie",
+		"price": 39.27,
+		"description": "Sabor autêntico que aquece o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Kids 2 Piece Chicken Tenders",
+		"price": 47.81,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Kids 4 Piece Chicken Nuggets",
+		"price": 57.99,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Kids Cheeseburger",
+		"price": 49.89,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Kids Grilled Chicken Wrap",
+		"price": 35.48,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Kids Hamburger",
+		"price": 36.22,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Artisan Egg Sandwich with Bacon",
+		"price": 32.48,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Artisan Egg Sandwich with Sausage",
+		"price": 35.4,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Bacon Breakfast Bowl",
+		"price": 39.09,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Biggie Breakfast Sandwich",
+		"price": 47.08,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Fresh-Baked Biscuit with Applewood Smoked Bacon",
+		"price": 37.52,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Fresh Baked Biscuit with Natural Sausage",
+		"price": 47.34,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Gravy and Sausage Bowl",
+		"price": 58.75,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Honey Butter Chicken Biscuit",
+		"price": 38.81,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sausage and Egg Burrito",
+		"price": 50.61,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sausage and Gravy Biscuit",
+		"price": 39.03,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sausage Biscuit",
+		"price": 32.42,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Sausage Breakfast Bowl",
+		"price": 31.43,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Seasoned Home-Style Potatoes, Large",
+		"price": 52.8,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Seasoned Home-Style Potatoes, Medium",
+		"price": 47.02,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Seasoned Home-Style Potatoes, Small",
+		"price": 43.1,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Two Sausage and Egg Burritos",
+		"price": 49.13,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Wendy’s",
+		"item": "Two Sausage Biscuits",
+		"price": 46.59,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "KFC",
+		"item": "Limited Time Cinnabon Dessert  Biscuits",
+		"price": 58.53,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast",
+		"price": 45.72,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick",
+		"price": 30.51,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh",
+		"price": 48.5,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "KFC",
+		"item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing",
+		"price": 35.85,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Breast",
+		"price": 43.68,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Drumstick",
+		"price": 38.71,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Thigh",
+		"price": 42.78,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Whole Wing",
+		"price": 46.97,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "KFC",
+		"item": "Breast",
+		"price": 43.29,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "KFC",
+		"item": "Drumstick",
+		"price": 50.51,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Thigh",
+		"price": 46.14,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Whole Wing",
+		"price": 51.99,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "KFC",
+		"item": "Breast",
+		"price": 52.42,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "KFC",
+		"item": "Drumstick",
+		"price": 55.29,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "KFC",
+		"item": "Thigh",
+		"price": 58.43,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Whole Wing",
+		"price": 37.92,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Chicken Breast",
+		"price": 46.29,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Chicken Drumstick",
+		"price": 34.12,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Chicken Thigh",
+		"price": 50.88,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Chicken Whole Wing",
+		"price": 53.65,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY GRILLED CHICKEN Breast",
+		"price": 49.71,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY GRILLED CHICKEN Drumstick",
+		"price": 52.09,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY GRILLED CHICKEN Thigh",
+		"price": 43.95,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY GRILLED CHICKEN Whole Wing",
+		"price": 36.95,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "SPICY CRISPY CHICKEN Breast",
+		"price": 50.95,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "SPICY CRISPY CHICKEN Drumstick",
+		"price": 50.82,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "SPICY CRISPY CHICKEN Thigh",
+		"price": 40.51,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "SPICY CRISPY CHICKEN Whole Wing",
+		"price": 49.07,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Tender (each)",
+		"price": 31.68,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "EXTRA CRISPY  Tender (each)",
+		"price": 49.42,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY FRIED WINGS Buffalo",
+		"price": 40.74,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY FRIED WINGS Honey BBQ",
+		"price": 30.28,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY FRIED WINGS Nashville Hot",
+		"price": 32.77,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "KENTUCKY FRIED WINGS Unsauced",
+		"price": 31.4,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "POPCORN NUGGETS Kids",
+		"price": 41.58,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "KFC",
+		"item": "POPCORN NUGGETS Large",
+		"price": 44.06,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "BBQ Baked Beans",
+		"price": 48.78,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Biscuit",
+		"price": 54.09,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "KFC",
+		"item": "Coleslaw",
+		"price": 45.77,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "KFC",
+		"item": "Corn on the Cob",
+		"price": 54.74,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Green Beans",
+		"price": 38.9,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Cornbread Muffin",
+		"price": 37.11,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "KFC",
+		"item": "Macaroni & Cheese",
+		"price": 39.46,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Macaroni Salad",
+		"price": 30.15,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Mashed Potatoes",
+		"price": 30.39,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Mashed Potatoes With Gravy",
+		"price": 37.77,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Potato Salad",
+		"price": 41.29,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Secret Recipe Fries",
+		"price": 38.6,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Sweet Kernel Corn",
+		"price": 46.64,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "KFC",
+		"item": "BBQ Baked Beans (Family)",
+		"price": 45.19,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Coleslaw (Family)",
+		"price": 49.56,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Corn on the Cob (Family)",
+		"price": 44.9,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Green Beans (Family)",
+		"price": 56.2,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "KFC",
+		"item": "Macaroni & Cheese (Family)",
+		"price": 51.14,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Macaroni Salad (Family)",
+		"price": 45.79,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Mashed Potatoes (Family)",
+		"price": 59.4,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Mashed Potatoes With Gravy (Family)",
+		"price": 39.03,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Potato Salad (Family)",
+		"price": 34.3,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Secret Recipe Fries (Family)",
+		"price": 32.13,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Sweet Kernel Corn (Family)",
+		"price": 34.37,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Littles",
+		"price": 43.2,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Littles – Buffalo",
+		"price": 59.43,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Littles – Honey BBQ",
+		"price": 31.72,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Littles – Nashville Hot",
+		"price": 34.45,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "Classic Chicken Sandwich",
+		"price": 49.09,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Crispy Colonel’s Sandwich",
+		"price": 32.79,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Crispy Colonel’s Sandwich – Buffalo",
+		"price": 45.85,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Crispy Colonel’s Sandwich – Honey BBQ",
+		"price": 32.74,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Crispy Colonel’s Sandwich – Nashville Hot",
+		"price": 40.38,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Crispy Twister®",
+		"price": 43.07,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Honey BBQ Sandwich",
+		"price": 54.62,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Spicy Chicken Sandwich",
+		"price": 42.85,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Chicken Pot Pie",
+		"price": 30.13,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Famous Bowl",
+		"price": 31.8,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Famous Bowl – Snack Size",
+		"price": 32.2,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Caesar Side Salad",
+		"price": 50.15,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "House Side Salad",
+		"price": 51.9,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Heinz Buttermilk Dressing",
+		"price": 34.69,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "KFC",
+		"item": "Hidden Valley The Original Ranch Fat Free Dressing",
+		"price": 33.09,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Creamy Parmesan Caesar Dressing",
+		"price": 40.42,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "KFC",
+		"item": "Marzetti Light Italian Dressing",
+		"price": 43.55,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "KFC",
+		"item": "Parmesan Garlic Croutons",
+		"price": 34.03,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Apple Turnover",
+		"price": 41.31,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Café Valley Chocolate Chip Cake (1 Slice)",
+		"price": 56.12,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Café Valley Lemon Cake (1 Slice)",
+		"price": 37.18,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Café Valley Mini Chocolate Chip Cake",
+		"price": 57.98,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Café Valley Mini Lemon Cake",
+		"price": 52.07,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Chocolate Chip Cookie",
+		"price": 37.44,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "KFC",
+		"item": "Oreo Cookies and Crème Pie",
+		"price": 35.97,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Reese’s Peanut Butter Pie",
+		"price": 54.15,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "BBQ – Dipping Sauce Cup",
+		"price": 58.21,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Colonel’s Buttery Spread",
+		"price": 49.06,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Grape Jelly Packet",
+		"price": 55.07,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Honey Mustard – Dipping Sauce Cup",
+		"price": 49.96,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Honey Sauce Packet",
+		"price": 37.21,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Ketchup",
+		"price": 38.16,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC Sauce – Dipping Sauce Cup",
+		"price": 53.48,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Lemon Juice Packet",
+		"price": 37.37,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "Ranch – Dipping Sauce Cup",
+		"price": 58.76,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Strawberry Jam Packet",
+		"price": 38.34,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Capri Sun® 100% Juice Fruit Punch",
+		"price": 47.45,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Chocolate Milk 1%",
+		"price": 40.86,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "KFC",
+		"item": "Milk 1%",
+		"price": 55.57,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Musselman’s™ Applesauce",
+		"price": 42.41,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "7UP® (12 fl oz)",
+		"price": 31.34,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "KFC",
+		"item": "7UP® (16 fl oz)",
+		"price": 49.14,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "7UP® (20 fl oz)",
+		"price": 56.44,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "7UP® (30 fl oz)",
+		"price": 52.93,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Classic Lemonade (1/2 Gallon)",
+		"price": 38.56,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Classic Lemonade (20 fl oz)",
+		"price": 41.98,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Code Red Mountain Dew® (12 fl oz)",
+		"price": 47,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Code Red Mountain Dew® (16 fl oz)",
+		"price": 30.53,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Code Red Mountain Dew® (20 fl oz)",
+		"price": 36.55,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Code Red Mountain Dew® (30 fl oz)",
+		"price": 58.61,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Dr Pepper® (12 fl oz)",
+		"price": 41.32,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Dr Pepper® (16 fl oz)",
+		"price": 56.88,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Dr Pepper® (20 fl oz)",
+		"price": 32.09,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Dr Pepper® (30 fl oz)",
+		"price": 54.92,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mist Twst® (12 fl oz)",
+		"price": 42.13,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mist Twst® (16 fl oz)",
+		"price": 55.36,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mist Twst® (20 fl oz)",
+		"price": 46.62,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mist Twst® (30 fl oz)",
+		"price": 47.31,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mountain Dew® (12 fl oz)",
+		"price": 50.44,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mountain Dew® (16 fl oz)",
+		"price": 55.78,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mountain Dew® (20 fl oz)",
+		"price": 45.07,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Mountain Dew® (30 fl oz)",
+		"price": 42.75,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® (12 fl oz)",
+		"price": 49.72,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® (16 fl oz)",
+		"price": 40.25,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® (20 fl oz)",
+		"price": 39.9,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® (30 fl oz)",
+		"price": 39.11,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® Wild Cherry Pepsi® (12 fl oz)",
+		"price": 55.14,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® Wild Cherry Pepsi® (16 fl oz)",
+		"price": 42,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® Wild Cherry Pepsi® (20 fl oz)",
+		"price": 47.83,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Diet Pepsi® Wild Cherry Pepsi® (30 fl oz)",
+		"price": 39.57,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Dr Pepper® (12 fl oz)",
+		"price": 45.39,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Dr Pepper® (16 fl oz)",
+		"price": 35.43,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "KFC",
+		"item": "Dr Pepper® (20 fl oz)",
+		"price": 43.08,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Dr Pepper® (30 fl oz)",
+		"price": 58.88,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Lemon Tea (12 fl oz)",
+		"price": 36.79,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Lemon Tea (16 fl oz)",
+		"price": 53.33,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Lemon Tea (20 fl oz)",
+		"price": 51.8,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Lemon Tea (30 fl oz)",
+		"price": 36.49,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® No Calorie Peach Iced Green Tea (12 fl oz)",
+		"price": 30.45,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® No Calorie Peach Iced Green Tea (16 fl oz)",
+		"price": 45.73,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® No Calorie Peach Iced Green Tea (20 fl oz)",
+		"price": 51.48,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® No Calorie Peach Iced Green Tea (30 fl oz)",
+		"price": 39.05,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Raspberry Tea (12 fl oz)",
+		"price": 44,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Raspberry Tea (16 fl oz)",
+		"price": 58.02,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Raspberry Tea (20 fl oz)",
+		"price": 39.5,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Raspberry Tea (30 fl oz)",
+		"price": 52.96,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Sweet Iced Tea (12 fl oz)",
+		"price": 50.76,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Sweet Iced Tea (16 fl oz)",
+		"price": 44.46,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Sweet Iced Tea (20 fl oz)",
+		"price": 56.69,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Sweet Iced Tea (30 fl oz)",
+		"price": 56.34,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (12 fl oz)",
+		"price": 41.97,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)",
+		"price": 51.41,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)",
+		"price": 58.45,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)",
+		"price": 40.29,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "KFC",
+		"item": "Manzanita Sol® (12 fl oz)",
+		"price": 30.53,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Manzanita Sol® (16 fl oz)",
+		"price": 58.35,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "KFC",
+		"item": "Manzanita Sol® (20 fl oz)",
+		"price": 34.15,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Manzanita Sol® (30 fl oz)",
+		"price": 36.64,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Miranda® Strawberry (12 fl oz)",
+		"price": 41.39,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "KFC",
+		"item": "Miranda® Strawberry (16 fl oz)",
+		"price": 47.36,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Miranda® Strawberry (20 fl oz)",
+		"price": 36.01,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "KFC",
+		"item": "Miranda® Strawberry (30 fl oz)",
+		"price": 37.72,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Mist Twst® (12 fl oz)",
+		"price": 55.94,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Mist Twst® (16 fl oz)",
+		"price": 45.3,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Mist Twst® (20 fl oz)",
+		"price": 43.49,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "KFC",
+		"item": "Mist Twst® (30 fl oz)",
+		"price": 33.23,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "MNT DEW Sweet Lightning (20 fl oz)",
+		"price": 42.94,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Mountain Dew® (12 fl oz)",
+		"price": 40.08,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Mountain Dew® (16 fl oz)",
+		"price": 47.98,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "KFC",
+		"item": "Mountain Dew® (20 fl oz)",
+		"price": 38.69,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Mountain Dew® (30 fl oz)",
+		"price": 38,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Mug Root Beer® (12 fl oz)",
+		"price": 44.74,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Mug Root Beer® (16 fl oz)",
+		"price": 52.31,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Mug Root Beer® (20 fl oz)",
+		"price": 46.22,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Mug Root Beer® (30 fl oz)",
+		"price": 55.19,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi Zero Sugar® (12 fl oz)",
+		"price": 34.82,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi Zero Sugar® (16 fl oz)",
+		"price": 39.96,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi Zero Sugar® (20 fl oz)",
+		"price": 49.69,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi Zero Sugar® (30 fl oz)",
+		"price": 50.56,
+		"description": "Uma opção refrescante e saudável."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi® (12 fl oz)",
+		"price": 43.62,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi® (16 fl oz)",
+		"price": 33,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi® (20 fl oz)",
+		"price": 46.6,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "KFC",
+		"item": "Pepsi® (30 fl oz)",
+		"price": 30.72,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Sobe Lifewater Yumberry Pomegranate (12 fl oz)",
+		"price": 50.66,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Sobe Lifewater Yumberry Pomegranate (16 fl oz)",
+		"price": 52.58,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "KFC",
+		"item": "Sobe Lifewater Yumberry Pomegranate (20 fl oz)",
+		"price": 42.17,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Sobe Lifewater Yumberry Pomegranate (30 fl oz)",
+		"price": 59.01,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Strawberry Lemonade (1/2 Gallon)",
+		"price": 33.39,
+		"description": "A combinação perfeita de doçura e frutas."
+	},
+	{
+		"company": "KFC",
+		"item": "Strawberry Lemonade (20 fl oz)",
+		"price": 38.67,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Fruit Punch (12 fl oz)",
+		"price": 53.76,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Fruit Punch (16 fl oz)",
+		"price": 55.92,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Fruit Punch (20 fl oz)",
+		"price": 38.05,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Fruit Punch (30 fl oz)",
+		"price": 42.06,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Light Lemonade (12 fl oz)",
+		"price": 45.89,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Light Lemonade (16 fl oz)",
+		"price": 50.4,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Light Lemonade (20 fl oz)",
+		"price": 39.54,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Light Lemonade (30 fl oz)",
+		"price": 42.79,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Pink Lemonade (12 fl oz)",
+		"price": 35.87,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Pink Lemonade (16 fl oz)",
+		"price": 58.21,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Pink Lemonade (20 fl oz)",
+		"price": 30.33,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Pink Lemonade (30 fl oz)",
+		"price": 33.49,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Twister® Orange (12 fl oz)",
+		"price": 46.97,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Twister® Orange (16 fl oz)",
+		"price": 31.88,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Twister® Orange (20 fl oz)",
+		"price": 54.89,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "KFC",
+		"item": "Tropicana® Twister® Orange (30 fl oz)",
+		"price": 38.25,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "KFC",
+		"item": "Wild Cherry Pepsi® (12 fl oz)",
+		"price": 50.21,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "Wild Cherry Pepsi® (16 fl oz)",
+		"price": 43.96,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "Wild Cherry Pepsi® (20 fl oz)",
+		"price": 34.99,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "KFC",
+		"item": "Wild Cherry Pepsi® (30 fl oz)",
+		"price": 51.43,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "KFC",
+		"item": "Country Fried Steak without Peppered White Gravy",
+		"price": 33.89,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "KFC",
+		"item": "Country Fried Steak with Peppered White Gravy",
+		"price": 56.56,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Gizzards",
+		"price": 35.86,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "KFC",
+		"item": "KFC® Livers",
+		"price": 36.51,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Bacon Club Chalupa",
+		"price": 58.33,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Blue Raspberry Freeze™ (16 oz)",
+		"price": 39.38,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Blue Raspberry Freeze™ (20 oz)",
+		"price": 47.71,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Loaded Nacho Taco",
+		"price": 30.3,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Midnight Berry Freeze™ (16 oz)",
+		"price": 48.73,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Midnight Berry Freeze™ (20 oz)",
+		"price": 54.36,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Fries",
+		"price": 41.51,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Fries BellGrande®",
+		"price": 31.15,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Chalupa – Online Exclusive",
+		"price": 32.65,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Quesarito – Online Exclusive",
+		"price": 56.06,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesarito – Online Exclusive",
+		"price": 57.06,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chalupa Supreme® – Beef",
+		"price": 34.58,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chalupa Supreme® – Chicken",
+		"price": 59.32,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chalupa Supreme® – Steak",
+		"price": 45.08,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Gordita Crunch",
+		"price": 40.77,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Crunchy Taco",
+		"price": 32.86,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Crunchy Taco Supreme®",
+		"price": 45.25,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Loaded Nacho Taco (New)",
+		"price": 55.56,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Cheese Doritos® Locos Taco",
+		"price": 53.42,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Cheese Doritos® Locos Taco Supreme®",
+		"price": 52.51,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco – Beef",
+		"price": 50.33,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco – Chicken",
+		"price": 55.18,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco Supreme®",
+		"price": 48.36,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco – Beef",
+		"price": 52.58,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco – Chicken",
+		"price": 46.16,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Bean Burrito (V)",
+		"price": 49.6,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Beefy 5-Layer Burrito",
+		"price": 52.61,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Burrito Supreme® – Beef",
+		"price": 59.05,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Burrito Supreme® – Chicken",
+		"price": 36.7,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Burrito Supreme® – Steak",
+		"price": 37.57,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chili Cheese Burrito (regional)",
+		"price": 38.98,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesarito – Beef",
+		"price": 59.83,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesarito – Chicken",
+		"price": 59.77,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesarito – Steak",
+		"price": 33.25,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chips and Nacho Cheese Sauce (V)",
+		"price": 41.01,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Fries (V) (New)",
+		"price": 50.76,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Fries BellGrande® (New)",
+		"price": 52.39,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nachos BellGrande® – Beef",
+		"price": 35.4,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nachos BellGrande® – Chicken",
+		"price": 53.68,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nachos BellGrande® – Steak",
+		"price": 36.27,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Beef Quesarito",
+		"price": 44.91,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Quesarito (V)",
+		"price": 45.26,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesadilla – Cheese (V)",
+		"price": 33.78,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesadilla – Chicken",
+		"price": 39.63,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesadilla – Steak",
+		"price": 32.17,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Bacon Club Chalupa – Specialties",
+		"price": 59.56,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Chalupa – Specialties",
+		"price": 42.11,
+		"description": "Uma escolha saudável e deliciosa."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Crunchwrap Supreme – Specialties",
+		"price": 38.72,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Quesarito – Specialties",
+		"price": 45.5,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chalupa Supreme® – Specialties",
+		"price": 54.45,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Gordita Crunch – Specialties",
+		"price": 55.5,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Roll Up – Specialties",
+		"price": 43.07,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Crunchwrap Supreme® – Specialties",
+		"price": 35.78,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Crunchy Taco – Specialties",
+		"price": 45.81,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nacho Cheese Doritos® Locos Taco – Specialties",
+		"price": 33.47,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Nachos BellGrande® – Specialties",
+		"price": 31.39,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Power Menu Bowl – Specialties",
+		"price": 46.92,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesadilla – Specialties",
+		"price": 53.41,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Quesarito – Specialties",
+		"price": 52.38,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco – Specialties",
+		"price": 32.21,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Soft Taco Supreme – Specialties",
+		"price": 32.37,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Veggie Power Menu Bowl – Specialties",
+		"price": 52.93,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Beans & Rice (V)",
+		"price": 36.01,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Beans (V)",
+		"price": 55.48,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (2 Pk) (V)",
+		"price": 29.98,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (12 Pk – Serves 4) (V)",
+		"price": 51.97,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnamon Twists (V)",
+		"price": 39.47,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diablo Sauce Packet (V)",
+		"price": 50.82,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Fire Sauce Packet (V)",
+		"price": 32.57,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hot Sauce Packet (V)",
+		"price": 56.81,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mild Sauce Packet (V)",
+		"price": 56.55,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Blue Raspberry Freeze™ (16 oz) (New)",
+		"price": 39.55,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Blue Raspberry Freeze™ (20 oz) (New)",
+		"price": 42.96,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Dragon Fruit Freeze (16 oz)",
+		"price": 32.88,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Dragon Fruit Freeze (20 oz)",
+		"price": 30.81,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Lowfat Milk – CA (Regional)",
+		"price": 38.77,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Lowfat Milk – Federal (Regional)",
+		"price": 48.06,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Midnight Berry Freeze™ (16 oz) (New)",
+		"price": 42.62,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Midnight Berry Freeze™ (20 oz) (New)",
+		"price": 34.45,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast Freeze™ (16 oz)",
+		"price": 30.29,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast Freeze™ (20 oz)",
+		"price": 34.68,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Orange Juice",
+		"price": 47.47,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Premium Hot Coffee",
+		"price": 57.11,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Regular Iced Coffee",
+		"price": 37.42,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Water",
+		"price": 36.61,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Wild Strawberry Freeze™ (16 oz)",
+		"price": 39.85,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Wild Strawberry Freeze™ (20 oz)",
+		"price": 46.65,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Beef Burrito – Value Menu",
+		"price": 53.04,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Bean & Rice Burrito – Value Menu",
+		"price": 46.87,
+		"description": "Uma explosão de sabores em um só prato."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Roll Up – Value Menu",
+		"price": 56.89,
+		"description": "Sabor autêntico que aquece o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chicken Chipotle Melt – Value Menu",
+		"price": 48.41,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chips and Nacho Cheese Sauce – Value Menu",
+		"price": 41.13,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnamon Twists – Value Menu",
+		"price": 51.79,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Loaded Nacho Taco – Value Menu",
+		"price": 50.74,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Bean Burrito",
+		"price": 32.83,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Chalupa",
+		"price": 52.66,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Crunchwrap Supreme",
+		"price": 39.13,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Bean Quesarito",
+		"price": 32.84,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Black Beans & Rice",
+		"price": 58.07,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheese Quesadilla",
+		"price": 30.37,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Bean & Rice Burrito",
+		"price": 48.15,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Roll Up",
+		"price": 37.38,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Chips and Nacho Cheese Sauce",
+		"price": 54.44,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (2 Pack)",
+		"price": 50.64,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (12 Pack – Serves 4)",
+		"price": 31.92,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnamon Twists",
+		"price": 51.06,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hash Brown",
+		"price": 39.79,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Power Menu Bowl – Veggie",
+		"price": 56.83,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Power Menu Bowl – Chicken",
+		"price": 32.17,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Power Menu Bowl – Steak",
+		"price": 32.3,
+		"description": "Uma escolha saudável e deliciosa."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Power Menu Bowl – Veggie (V)",
+		"price": 57.3,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Breakfast Crunchwrap – Bacon",
+		"price": 36.21,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Breakfast Crunchwrap – Sausage",
+		"price": 58.39,
+		"description": "Uma opção saudável e satisfatória."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Breakfast Crunchwrap – Steak",
+		"price": 46.25,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Breakfast Salsa Packet (V)",
+		"price": 58.61,
+		"description": "Sabor autêntico que aquece o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Toasted Breakfast Burrito – Bacon",
+		"price": 45.07,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Toasted Breakfast Burrito – Fiesta Potato (V)",
+		"price": 44.41,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cheesy Toasted Breakfast Burrito – Sausage",
+		"price": 49.33,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (2 Pack) (V)",
+		"price": 40.84,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Cinnabon® Delights™ (12 Pack – Serves 4) (V)",
+		"price": 48.11,
+		"description": "Uma mistura de doçura e crocância."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Grande Toasted Breakfast Burrito – Bacon",
+		"price": 47.02,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Grande Toasted Breakfast Burrito – Sausage",
+		"price": 56.86,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Grande Toasted Breakfast Burrito – Steak",
+		"price": 43.44,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hash Brown (V)",
+		"price": 42.42,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hash Brown Toasted Breakfast Burrito – Bacon",
+		"price": 54,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hash Brown Toasted Breakfast Burrito – Sausage",
+		"price": 37.63,
+		"description": "Leve e saboroso, perfeito a qualquer hora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Hash Brown Toasted Breakfast Burrito – Steak",
+		"price": 48.33,
+		"description": "Uma opção deliciosa e reconfortante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "7-Up (16 fl oz)",
+		"price": 31.4,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Mango Iced Tea (16 fl oz)",
+		"price": 43.31,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)",
+		"price": 53.24,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Dr Pepper® (16 fl oz)",
+		"price": 42.36,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Mtn Dew® (16 fl oz)",
+		"price": 53.96,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Pepsi® (16 fl oz)",
+		"price": 39.57,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Dr Pepper® (16 fl oz)",
+		"price": 46.43,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "G2 – Fruit Punch (16 fl oz)",
+		"price": 52.67,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® (16 fl oz)",
+		"price": 52.29,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast™ (16 fl oz)",
+		"price": 35.23,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast Zero Sugar (16 fl oz)",
+		"price": 54.91,
+		"description": "Uma deliciosa refeição para toda a família."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Kickstart™ Orange Citrus (16 fl oz)",
+		"price": 34.61,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mug® Root Beer (16 fl oz)",
+		"price": 32.11,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® (16 fl oz)",
+		"price": 57.71,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Wild Cherry (16 fl oz)",
+		"price": 55.8,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Zero Sugar (16 fl oz)",
+		"price": 51.26,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Sierra Mist® (16 fl oz)",
+		"price": 40.22,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Tropicana® Pink Lemonade (16 fl oz)",
+		"price": 50.39,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "7-Up (20 fl oz)",
+		"price": 38.13,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Mango Iced Tea (20 fl oz)",
+		"price": 44.89,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)",
+		"price": 44.78,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Dr Pepper® (20 fl oz)",
+		"price": 44.67,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Mtn Dew® (20 fl oz)",
+		"price": 42.74,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Pepsi® (20 fl oz)",
+		"price": 52.5,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Dr Pepper® (20 fl oz)",
+		"price": 46.29,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "G2 – Fruit Punch (20 fl oz)",
+		"price": 57.38,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® (20 fl oz)",
+		"price": 58.57,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast™ (20 fl oz)",
+		"price": 54.17,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast Zero Sugar (20 fl oz)",
+		"price": 56.44,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Kickstart™ Orange Citrus (20 fl oz)",
+		"price": 38.64,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mug® Root Beer (20 fl oz)",
+		"price": 53.62,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® (20 fl oz)",
+		"price": 48.55,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Wild Cherry (20 fl oz)",
+		"price": 31.25,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Zero Sugar (20 fl oz)",
+		"price": 34.26,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Sierra Mist® (20 fl oz)",
+		"price": 43.49,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Tropicana® Pink Lemonade (20 fl oz)",
+		"price": 45.2,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": " ",
+		"price": 48.7,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "FOUNTAIN BEVERAGES (30 OZ)",
+		"price": 35.25,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "7-Up (30 fl oz)",
+		"price": 43.28,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Mango Iced Tea (30 fl oz)",
+		"price": 55.43,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)",
+		"price": 45.27,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Dr Pepper® (30 fl oz)",
+		"price": 42.51,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Mtn Dew® (30 fl oz)",
+		"price": 37.56,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Diet Pepsi® (30 fl oz)",
+		"price": 51.45,
+		"description": "Sabores únicos que vão surpreender você."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Dr Pepper® (30 fl oz)",
+		"price": 55.07,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "G2 – Fruit Punch (30 fl oz)",
+		"price": 41.64,
+		"description": "Sinta o sabor da tradição em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® (30 fl oz)",
+		"price": 29.99,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast™ (30 fl oz)",
+		"price": 49.71,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Baja Blast Zero Sugar (30 fl oz)",
+		"price": 58.49,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mtn Dew® Kickstart™ Orange Citrus (30 fl oz)",
+		"price": 35.21,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Mug® Root Beer (30 fl oz)",
+		"price": 43.55,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® (30 fl oz)",
+		"price": 35.97,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Wild Cherry (30 fl oz)",
+		"price": 55.2,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Pepsi® Zero Sugar (30 fl oz)",
+		"price": 37.25,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Sierra Mist® (30 fl oz)",
+		"price": 55.33,
+		"description": "Sinta o sabor da natureza em cada mordida."
+	},
+	{
+		"company": "Taco Bell",
+		"item": "Tropicana® Pink Lemonade (30 fl oz)",
+		"price": 33.03,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Detroit Double Cheesy Pizza Slice",
+		"price": 57.06,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Detroit Double Pepperoni Pizza Slice",
+		"price": 44.86,
+		"description": "Uma opção deliciosa e satisfatória."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Detroit Meaty Pizza Slice",
+		"price": 54.53,
+		"description": "Para os apaixonados por café e lattes."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Detroit Supremo Pizza Slice",
+		"price": 36.76,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Backyard BBQ Chicken Personal Pan",
+		"price": 37.5,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Backyard BBQ Chicken Medium",
+		"price": 38.87,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Backyard BBQ Chicken Large",
+		"price": 38.78,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Beyond Meat® Pepperoni Medium",
+		"price": 39.31,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Beyond Meat® Pepperoni Large",
+		"price": 39.11,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Buffalo Chicken Personal Pan",
+		"price": 46.93,
+		"description": "A escolha perfeita para um dia especial."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Buffalo Chicken Medium",
+		"price": 34.27,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Buffalo Chicken Large",
+		"price": 30.27,
+		"description": "O acompanhamento perfeito para qualquer refeição."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Cheese Personal Pan",
+		"price": 42.66,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Cheese Medium",
+		"price": 55.95,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Cheese Large",
+		"price": 36.83,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Chicken Bacon Parmesan Personal Pan",
+		"price": 35.06,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Chicken Bacon Parmesan Medium",
+		"price": 38.91,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Chicken Bacon Parmesan Large",
+		"price": 57.25,
+		"description": "Leve e delicioso, ótimo para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Hawaiian Chicken Personal Pan",
+		"price": 37.76,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Hawaiian Chicken Medium",
+		"price": 37.43,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Hawaiian Chicken Large",
+		"price": 40.86,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Meat Lover’s® Personal Pan",
+		"price": 34.02,
+		"description": "Um clássico que nunca sai de moda."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Meat Lover’s® Medium",
+		"price": 53.44,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Meat Lover’s® Large",
+		"price": 50.11,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Personal Pan",
+		"price": 40.7,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Medium",
+		"price": 31.21,
+		"description": "Sabor exótico que você vai adorar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Large",
+		"price": 40.77,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Lover’s® Personal Pan",
+		"price": 49.27,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Lover’s® Medium",
+		"price": 33.46,
+		"description": "Deliciosos molhos para realçar seu prato."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Pepperoni Lover’s® Large",
+		"price": 52.92,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Supreme Personal Pan",
+		"price": 32.7,
+		"description": "Para os amantes de café e cappuccinos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Supreme Medium",
+		"price": 46.9,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Supreme Large",
+		"price": 30.06,
+		"description": "Uma escolha saudável e deliciosa."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Ultimate Cheese Lover’s® Personal Pan",
+		"price": 58.71,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Ultimate Cheese Lover’s® Medium",
+		"price": 40.3,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Ultimate Cheese Lover’s® Large",
+		"price": 34.06,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Veggie Lover’s® Personal Pan",
+		"price": 56.45,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Veggie Lover’s® Medium",
+		"price": 41.36,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Pan Pizza Slices Veggie Lover’s® Large",
+		"price": 33.08,
+		"description": "Para os amantes de comida caseira."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Backyard BBQ Chicken Small",
+		"price": 39.45,
+		"description": "Uma opção saudável e equilibrada."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Backyard BBQ Chicken Medium",
+		"price": 40.07,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Backyard BBQ Chicken Large",
+		"price": 48.89,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Beyond Meat® Pepperoni Medium",
+		"price": 45.35,
+		"description": "Sinta o sabor do verão a cada gole."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Beyond Meat® Pepperoni Large",
+		"price": 32.67,
+		"description": "Uma combinação única de sabores e texturas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices  Buffalo Chicken Small",
+		"price": 55.86,
+		"description": "Uma opção deliciosa e acolhedora."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices  Buffalo Chicken Medium",
+		"price": 30.96,
+		"description": "Perfeito para quem gosta de sabores picantes."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices  Buffalo Chicken Large",
+		"price": 40.59,
+		"description": "Uma explosão de sabores em cada mordida."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Cheese Small",
+		"price": 42.02,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Cheese Medium",
+		"price": 44.47,
+		"description": "A escolha saudável para um dia agitado."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Cheese Large",
+		"price": 49.49,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Chicken Bacon Parmesan Small",
+		"price": 55.65,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Chicken Bacon Parmesan Medium",
+		"price": 51.18,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Chicken Bacon Parmesan Large",
+		"price": 52.22,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Hawaiian Chicken Small",
+		"price": 38.78,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Hawaiian Chicken Medium",
+		"price": 57.11,
+		"description": "Sabor autêntico e suculento."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Hawaiian Chicken Large",
+		"price": 41.3,
+		"description": "Incrivelmente saboroso e satisfatório."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Meat Lover’s® Small",
+		"price": 47.88,
+		"description": "Sabores tradicionais que nunca desapontam."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Meat Lover’s® Medium",
+		"price": 32.2,
+		"description": "A escolha ideal para ocasiões especiais."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Meat Lover’s® Large",
+		"price": 59.8,
+		"description": "Sabor caseiro que aquece a alma."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Small",
+		"price": 35.13,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Medium",
+		"price": 41.54,
+		"description": "Sabores autênticos que aquecem o coração."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Large",
+		"price": 41.06,
+		"description": "Incrivelmente saboroso e gratificante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Lover’s® Small",
+		"price": 46.11,
+		"description": "Uma bebida gelada e revigorante."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Lover’s® Medium",
+		"price": 59.72,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Pepperoni Lover’s® Large",
+		"price": 45.19,
+		"description": "Sabor exótico que vai te surpreender."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Supreme Small",
+		"price": 39.86,
+		"description": "Uma experiência refrescante e doce."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Supreme Medium",
+		"price": 41.64,
+		"description": "Incrivelmente refrescante e saboroso."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Supreme Large",
+		"price": 32.6,
+		"description": "Para os amantes de bebidas geladas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Ultimate Cheese Lover’s® Small",
+		"price": 33.58,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Ultimate Cheese Lover’s® Medium",
+		"price": 39.43,
+		"description": "Uma combinação perfeita de sabores e texturas."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Ultimate Cheese Lover’s® Large",
+		"price": 58.28,
+		"description": "Sabor autêntico com ingredientes frescos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Veggie Lover’s® Small",
+		"price": 51.06,
+		"description": "Leve e delicioso, perfeito para compartilhar."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Veggie Lover’s® Medium",
+		"price": 43.03,
+		"description": "Molhos deliciosos para realçar seus pratos."
+	},
+	{
+		"company": "Pizza Hut",
+		"item": "Hand Tossed Slices Veggie Lover’s® Large",
+		"price": 50.63,
+		"description": "Sabor exótico que vai te surpreender."
+	}
+]
