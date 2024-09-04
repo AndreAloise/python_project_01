@@ -42,3 +42,9 @@ class Restaurant:
 
 	def add_menu_item(self, item: MenuItem):
 		self._menu.append(item)
+
+	def show_menu(self):
+		print(f'\n{self._name}\'s Menu\n')
+		for i, item in enumerate(self._menu, start=1):
+			new_message = item.show_item(i)
+			print(new_message)
