@@ -1,10 +1,8 @@
-from models.restaurant_menu.dish import Dish
-from models.restaurant_menu.drink import Drink
+from models.restaurant_menu.menu_item import MenuItem
 from models.review import Review
 
 
 class Restaurant:
-
 	restaurants = []
 
 	def __init__(self, name, category):
@@ -19,7 +17,6 @@ class Restaurant:
 		if 0 < rating <= 5:
 			review = Review(client, rating)
 			self._reviews.append(review)
-
 
 	def change_state(self):
 		self._active = not self._active
@@ -43,8 +40,5 @@ class Restaurant:
 	def status(self):
 		return 'active' if self._active else 'inactive'
 
-	def add_menu_drink(self, drink: Drink):
-		self._menu.append(drink)
-
-	def add_menu_dish(self, dish: Dish):
-		self._menu.append(dish)
+	def add_menu_item(self, item: MenuItem):
+		self._menu.append(item)
