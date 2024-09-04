@@ -1,3 +1,5 @@
+from models.restaurant_menu.dish import Dish
+from models.restaurant_menu.drink import Drink
 from models.review import Review
 
 
@@ -10,6 +12,7 @@ class Restaurant:
 		self._category = category
 		self._active = False
 		self._reviews = []
+		self._menu = []
 		Restaurant.restaurants.append(self)
 
 	def receive_reviews(self, client, rating):
@@ -39,3 +42,9 @@ class Restaurant:
 	@property
 	def status(self):
 		return 'active' if self._active else 'inactive'
+
+	def add_menu_drink(self, drink: Drink):
+		self._menu.append(drink)
+
+	def add_menu_dish(self, dish: Dish):
+		self._menu.append(dish)
