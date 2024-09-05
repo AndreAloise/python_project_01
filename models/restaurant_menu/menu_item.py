@@ -2,6 +2,9 @@ from abc import ABC, abstractmethod
 
 
 class MenuItem(ABC):
+	NAME_LEFT_PADDING_ADJUST_SPACE = 70
+	PRICE_LEFT_PADDING_ADJUST_SPACE = 15
+
 	def __init__(self, name, price):
 		self.name = name
 		self.price = price

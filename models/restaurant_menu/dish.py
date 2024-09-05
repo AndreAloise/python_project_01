@@ -7,8 +7,8 @@ class Dish(MenuItem):
 		self._description = description
 
 	def show_item(self, i):
-		name = f'Name: {self.name.ljust(25)}'
-		price = f'Price: R${str(self.price).ljust(15)}'
+		name = f'Name: {self.name.ljust(self.NAME_LEFT_PADDING_ADJUST_SPACE)}'
+		price = f'Price: R${str(self.price).ljust(self.PRICE_LEFT_PADDING_ADJUST_SPACE)}'
 		description = f'Description: {self._description}'
 		message = f'{i}. {name} | {price} | {description}'
 		return message
