@@ -1,16 +1,36 @@
-# This is a sample Python script.
+import json
+from pathlib import Path
+from typing import List
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from fastapi import FastAPI
+
+from models.dtos.get_restaurant_response_dto import GetRestaurantResponseDto
+from services.company_service import CompanyService
+from services.restaurant_service import RestaurantService
+
+app = FastAPI()
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+@app.get('/api/getAllRestaurants')
+def get_all_restaurants():
+	restaurants = get_restaurant_list()
+
+	return restaurants
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def get_restaurant_list() -> List[GetRestaurantResponseDto]:
+	file_path = Path('raw_data_jsons/company_data.json')
+	with file_path.open('r', encoding='utf-8') as file:
+		data = json.load(file)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+	dto_list = CompanyService.convert_json_to_list_dto(data)
+	restaurant_list = RestaurantService.create_restaurants_from_company_data(dto_list)
+
+	response = []
+	for restaurant in restaurant_list:
+		name = restaurant.get_name()
+		menu = restaurant.get_menu()
+		dto = GetRestaurantResponseDto(name, menu)
+		response.append(dto)
+
+	return response
