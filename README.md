@@ -41,3 +41,10 @@ Para listar todos os pacotes instalados:
 
 Foi criado um arquivo com todos os requerimnentos de libs para executar a aplicação:
 - Comando: "pip freeze > requirements.txt"
+
+Para acessar os endpoints, é necessário subir um servidor local:
+- Comando: "uvicorn main:app --reload"
+- Para parar o servidor: "CTRL + C"
+
+Podemos acessar todos os endpoints em uma única página:
+- Endpoint: "docs"
