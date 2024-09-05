@@ -27,6 +27,15 @@ Desativação do Ambiente Virtual no Windows/Linux/Mac:
 - - Para remover: "pip uninstall requests"
 - - Se atentar que são instalados outros pacotes para que o requests funcione. eles também precisam ser desinstalados.
 
+É utilizado o pacote "fast api" para criação de endpoints na aplicação:
+- Comando: "pip install fastapi"
+- - Para remover: "pip uninstall fastapi"
+- - Se atentar que são instalados outros pacotes para que o requests funcione. eles também precisam ser desinstalados.
+
+É utilizado o pacote "uvicorn" para o servidor:
+- Comando: "pip install uvicorn"
+- É utilizado internamente pelo FastAPI
+
 Para listar todos os pacotes instalados:
 - Comando: "pip freeze"
 
