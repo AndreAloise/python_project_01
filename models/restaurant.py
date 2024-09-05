@@ -48,3 +48,13 @@ class Restaurant:
 		for i, item in enumerate(self._menu, start=1):
 			message = item.show_item(i)
 			print(message)
+
+	def get_menu(self):
+		messages = []
+		for i, item in enumerate(self._menu, start=1):
+			message = item.show_item(i)
+			messages.append(message)
+		return messages
+
+	def get_name(self):
+		return self._name
