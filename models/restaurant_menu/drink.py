@@ -7,8 +7,8 @@ class Drink(MenuItem):
 		self._size = size
 
 	def show_item(self, i):
-		name = f'Name: {self.name.ljust(25)}'
-		price = f'Price: R${str(self.price).ljust(15)}'
+		name = f'Name: {self.name.ljust(self.NAME_LEFT_PADDING_ADJUST_SPACE)}'
+		price = f'Price: R${str(self.price).ljust(self.PRICE_LEFT_PADDING_ADJUST_SPACE)}'
 		size = f'Size: {self._size}'
 		message = f'{i}. {name} | {price} | {size}'
 		return message

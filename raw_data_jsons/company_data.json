@@ -1081,13 +1081,13 @@
 	},
 	{
 		"company": "McDonald’s",
-		"item": "EQUAL® 0\nCalorie Sweetener",
+		"item": "EQUAL® 0 Calorie Sweetener",
 		"price": 55.77,
 		"description": "Para os amantes de bebidas geladas."
 	},
 	{
 		"company": "McDonald’s",
-		"item": "SPLENDA® No\nCalorie Sweetener",
+		"item": "SPLENDA® No Calorie Sweetener",
 		"price": 39.37,
 		"description": "Sabores autênticos que aquecem o coração."
 	},
@@ -6325,7 +6325,7 @@
 	},
 	{
 		"company": "Taco Bell",
-		"item": " ",
+		"item": "Tropicana® Green Lemonade (20 fl oz)",
 		"price": 48.7,
 		"description": "Uma experiência refrescante e doce."
 	},
